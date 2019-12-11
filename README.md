@@ -12,3 +12,4 @@ Works on the database created by Oyasis.
 - Configure path to sqlite database file in the `config.ini` file. A sample database has been provided _(localization.db)_ to get you started
 - Install the requirements with `pip install -r requirements.txt` 
 - Your bot should be up and running
+- The webhook should be hosted on a server with SSL certificate
